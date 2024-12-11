@@ -1,4 +1,4 @@
-package sample1_go_project
+package service
 
 func SayHi() string {
 	return "Hi"
