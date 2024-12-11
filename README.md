@@ -8,3 +8,5 @@ update lagi
 lagi ah
 
 ## hohoho
+
+dari repo
